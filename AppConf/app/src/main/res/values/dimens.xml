@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">5dp</dimen>
+    <dimen name="margin15">15dp</dimen>
+    <dimen name="heightLogo">45dp</dimen>
+    <dimen name="heightToolbar">30dp</dimen>
+    <dimen name="heightImageHome">150dp</dimen>
+    <dimen name="heightImage100">100dp</dimen>
+    <dimen name="cardviewRadius">4dp</dimen>
+    <dimen name="sizeTitulo">20sp</dimen>
+    <dimen name="sizeSubTitulo">15sp</dimen>
+    <dimen name="sizeScheduleTitulo">25sp</dimen>
+    <dimen name="sizeScheduleSubTitulo">20sp</dimen>
+    <dimen name="sizeScheduleDetail">15sp</dimen>
+    <dimen name="sizeTitulo30">30sp</dimen>
+    <dimen name="sizeTitulo15">15sp</dimen>
+    <dimen name="sizeTitulo12">12sp</dimen>
+</resources>

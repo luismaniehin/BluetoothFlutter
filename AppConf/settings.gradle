@@ -1,0 +1,2 @@
+rootProject.name='AppConf'
+include ':app'
