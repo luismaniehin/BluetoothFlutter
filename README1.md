@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # blueapp
 
 A new Flutter application.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# BluetoothFlutter
+código para conectarse con bluetooth dispositivo
+>>>>>>> 01b90d409c2b7a29a1c2f04eebe5f96f1a72710a
