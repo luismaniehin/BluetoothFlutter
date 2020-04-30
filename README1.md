@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # BluetoothFlutter
 código para conectarse con bluetooth dispositivo
->>>>>>> 01b90d409c2b7a29a1c2f04eebe5f96f1a72710a
+>>>>>>> CODE_BLUE_DEVICE
